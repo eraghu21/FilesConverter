@@ -1,8 +1,7 @@
 streamlit
-python-docx
-fpdf
-pdfplumber
-pdf2image
+docx2pdf
+pdf2docx
 pillow
-PyMuPDF
-
+pdf2image
+fpdf
+pymupdf
