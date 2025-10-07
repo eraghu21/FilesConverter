@@ -1,6 +1,8 @@
 streamlit
 python-docx
-reportlab
+fpdf
+pdfplumber
 pdf2image
 pillow
-PyPDF2
+PyMuPDF
+
